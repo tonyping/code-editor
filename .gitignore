@@ -5,3 +5,8 @@ release-signing.properties
 www/js/build
 www/css/build
 package-lock.json
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
