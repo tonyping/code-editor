@@ -8,3 +8,5 @@
 /// <reference path="../.vscode/typings/cordova/plugins/Toast.d.ts"/>
 /// <reference path="../.vscode/typings/cordova/plugins/FileTransfer.d.ts"/>
 /// <reference path="../.vscode/typings/cordova/plugins/InAppBrowser.d.ts"/>
+/// <reference path="..\.vscode\typings\cordova\plugins\FileTransfer.d.ts"/>
+/// <reference path="..\.vscode\typings\cordova\plugins\InAppBrowser.d.ts"/>

@@ -104,10 +104,7 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/deadlyjack/acode.git"
-  },
+  "repository": "git+https://github.com/deadlyjack/acode.git",
   "bugs": {
     "url": "https://github.com/deadlyjack/acode/issues"
   },
