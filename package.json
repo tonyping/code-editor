@@ -24,7 +24,7 @@
     "@babel/runtime": "^7.11.2",
     "@deadlyjack/ajax": "^1.0.7",
     "autosize": "^4.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "compare-func": "^2.0.0",
     "cordova": "^10.0.0",
     "cordova-android": "^9.0.0",
